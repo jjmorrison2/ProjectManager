@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Ai Staff Meeting",
+    "impact": 4,
+    "alignment": 5,
+    "momentum": 4,
+    "effort": 3,
+    "urgency_buffer": 1,
+    "score": 106.67,
+    "status": "In Progress",
+    "next_action": "Compare with GPT-5",
+    "created": "2025-08-08T18:40:12.014984",
+    "updated": "2025-08-09T04:07:43.285109+00:00",
+    "tasks": [
+      {
+        "text": "Consolidate Examples",
+        "done": true
+      },
+      {
+        "text": "Compare with GPT-5",
+        "done": false
+      },
+      {
+        "text": "write out rough outline",
+        "done": false
+      },
+      {
+        "text": "Trial run/time length",
+        "done": false
+      }
+    ],
+    "urgency": 4,
+    "category": "Work"
+  },
+  {
+    "name": "Plant Alfalfa",
+    "impact": 2,
+    "alignment": 2,
+    "momentum": 4,
+    "effort": 1,
+    "urgency_buffer": 1,
+    "score": 80.0,
+    "status": "Not Started",
+    "next_action": "Take soil Samples",
+    "created": "2025-08-08T19:15:17.873879",
+    "updated": "2025-08-09T03:43:32.544273+00:00",
+    "tasks": [
+      {
+        "text": "Take soil Samples",
+        "done": false
+      },
+      {
+        "text": "Buy and apply Lime",
+        "done": false
+      },
+      {
+        "text": "Spray Field",
+        "done": false
+      },
+      {
+        "text": "Plant Alfalfa",
+        "done": false
+      }
+    ],
+    "urgency": 5,
+    "category": "Farm"
+  },
+  {
+    "name": "Natural Language Reporting",
+    "impact": 4,
+    "alignment": 5,
+    "momentum": 3,
+    "effort": 4,
+    "urgency_buffer": 2,
+    "score": 45.0,
+    "status": "In Progress",
+    "next_action": "",
+    "created": "2025-08-08T18:47:07.455335",
+    "updated": "2025-08-09T03:43:49.230603+00:00",
+    "tasks": [],
+    "urgency": 3,
+    "category": "Work"
+  },
+  {
+    "name": "Financial Ananlisis",
+    "impact": 3,
+    "alignment": 4,
+    "momentum": 5,
+    "effort": 3,
+    "urgency_buffer": 2,
+    "score": 60.0,
+    "status": "In Progress",
+    "next_action": "",
+    "created": "2025-08-08T19:14:04.219466",
+    "updated": "2025-08-09T03:43:38.264180+00:00",
+    "tasks": [],
+    "urgency": 3,
+    "category": "Personal"
+  },
+  {
+    "name": "Small Group Facilitator",
+    "impact": 5,
+    "alignment": 5,
+    "momentum": 2,
+    "effort": 4,
+    "urgency_buffer": 3,
+    "score": 25.0,
+    "status": "Not Started",
+    "next_action": "",
+    "created": "2025-08-08T19:12:46.684058",
+    "updated": "2025-08-09T03:43:44.931229+00:00",
+    "tasks": [],
+    "urgency": 2,
+    "category": "Personal"
+  },
+  {
+    "name": "Builc Bridge Across the Creek",
+    "impact": 2,
+    "alignment": 2,
+    "momentum": 4,
+    "effort": 2,
+    "urgency_buffer": 1,
+    "score": 40.0,
+    "status": "Not Started",
+    "next_action": "",
+    "created": "2025-08-08T19:20:04.976513",
+    "updated": "2025-08-09T03:43:54.709249+00:00",
+    "tasks": [],
+    "urgency": 5,
+    "category": "Farm"
+  },
+  {
+    "name": "Get Ready For Camp",
+    "impact": 5,
+    "alignment": 3,
+    "momentum": 4,
+    "effort": 3,
+    "urgency_buffer": 1,
+    "score": 100.0,
+    "status": "Done",
+    "next_action": "",
+    "created": "2025-08-08T19:35:22.802310+00:00",
+    "updated": "2025-08-08T19:39:03.485444+00:00",
+    "tasks": [],
+    "urgency": 5,
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Change Fluids in Truck",
+    "impact": 5,
+    "alignment": 1,
+    "momentum": 3,
+    "effort": 1,
+    "urgency": 2,
+    "category": "Personal",
+    "score": 30.0,
+    "status": "Not Started",
+    "next_action": "Research what fluids need to be changed",
+    "created": "2025-08-09T03:47:05.193469+00:00",
+    "updated": "2025-08-09T03:48:25.848377+00:00",
+    "tasks": [
+      {
+        "text": "Research what fluids need to be changed",
+        "done": false
+      },
+      {
+        "text": "Buy the fluids",
+        "done": false
+      },
+      {
+        "text": "Change the Fluids",
+        "done": false
+      },
+      {
+        "text": "Dispose of the fluids",
+        "done": false
+      }
+    ]
+  }
+]
